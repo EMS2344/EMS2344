@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on [The Hungry Kitchen](https://github.com/ysfsam/The-Hungry-Kitchen) with [ysfsam](https://github.com/ysfsam)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and **Tailwind CSS**
 
-- 📫 How to reach me **Discord:ems#4587**
+- ✨ I am in my last semester of Sophomore year. 
+
+- 📫 You can reach me on Discord at **ems#4587**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
