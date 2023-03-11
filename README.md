@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Hungry Kitchen](https://github.com/ysfsam/The-Hungry-Kitchen) with [ysfsam](https://github.com/ysfsam) and my own personal side project [Ilo](https://github.com/EMS2344/ILO)
 
-- 🌱 I’m currently learning **JavaScript** and **Tailwind CSS**
+- 🌱 I’m currently learning **JavaScript**, **Tailwind CSS**, and **SQL**.
 
 - ✨ I am in my last semester of Sophomore year
 
