@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emma</h1>
 <h3 align="center">A passionate frontend developer and student majoring in IT</h3>
 
-- 🔭 I’m currently working on [The Hungry Kitchen](https://github.com/ysfsam/The-Hungry-Kitchen) with [ysfsam](https://github.com/ysfsam) and my own personal side project [https://github.com/EMS2344](https://github.com/EMS2344/ILO)
+- 🔭 I’m currently working on [The Hungry Kitchen](https://github.com/ysfsam/The-Hungry-Kitchen) with [ysfsam](https://github.com/ysfsam) and my own personal side project [Ilo](https://github.com/EMS2344/ILO)
 
 - 🌱 I’m currently learning **JavaScript** and **Tailwind CSS**
 
