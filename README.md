@@ -9,7 +9,6 @@
 
 - 📫 You can reach me on Discord at **ems#4587**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
