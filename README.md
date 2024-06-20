@@ -6,9 +6,6 @@
 - 🌱 I’m currently learning **JavaScript**, **Tailwind CSS**, and **SQL**.
 
 - ✨ I am in my last semester of Sophomore year
-
-- 📫 You can reach me on Discord at **ems#4587**
-
 <p align="left">
 </p>
 
