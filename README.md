@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**, **Tailwind CSS**, and **SQL**.
 
-- ✨ I am in my last semester of Sophomore year
+- ✨ I am in my last semester of my Junior year
 <p align="left">
 </p>
 
